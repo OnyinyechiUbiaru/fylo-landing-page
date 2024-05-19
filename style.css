@@ -1,0 +1,95 @@
+
+
+.header{
+   display: flex;
+   justify-content: space-between;
+}
+.second_section{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+.container{
+    width: 50%;
+}
+.container_2{
+    height: 30px;
+    width: 50%;
+    justify-content: right;
+}
+a{
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    color: black;
+    text-decoration: none;
+}
+button{
+    background-color:  hsl(224, 93%, 58%);
+    border: none;
+    border-radius: 3px;
+    color: white;
+    width: 200px;
+    height: 30px;
+}
+img{
+    width: 80%;
+}
+.third_section{
+    display: flex;
+}
+h3{
+    font-size: 40px;
+}
+.third_section{
+    margin-top: 150px;
+}
+p{
+    font-size: 16px;
+    width: 50%;
+    
+}
+input{
+    width: 200px;
+    height: 25px;
+}
+.second_main{
+    background-image: url(images/bg-curve-desktop.svg);
+    width: 100%;
+    
+}
+.avatar{
+    width: 40px;
+    height: 40px;
+    border-radius: 50px;
+}
+.dialog{
+    border-radius: 20px;
+    background-color: white;
+    margin-top: 30px;
+    margin-right: 200px;
+    padding: 30px;
+    width: 30%;
+    height: 30%;
+}
+.fourth_main{
+    background-color: hsl(238, 22%, 44%);
+    margin: 0;
+    border: 0;
+}
+.container_3{
+    justify-content: space-between;
+
+}
+.fylo{
+    color: hsl(170, 45%, 43%);
+}
+.logo{
+    width: 100px;
+    margin-top: 50px;
+}
+.arrow{
+    width: 20px;
+    justify-content: center;
+}
